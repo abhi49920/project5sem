@@ -1,0 +1,32 @@
+<?php
+	error_reporting(0);
+	$msg=$_REQUEST['msg'];
+	//echo $msg;
+	if($msg==1)
+	{
+	echo "does not exist";
+	}
+?>
+
+
+
+<html>
+	<head>
+	<link href="inn.css" rel="stylesheet" type="text/css"/> 
+	</head>
+	<body>
+		<center>
+		<h1>ADMIN PANNEL</h1>
+		</center>
+
+		<div id="outer">
+			<form action="login1.php" method="post">
+	
+	 		<br/><br/><br/>username<input type="text" name="user"/><br/><br/>
+			 password<input type="password" name="pass"/><br/><br/>
+			 <input type="submit" value="login"/>
+			 </form>
+		 </div>
+	
+	</body>
+</html>

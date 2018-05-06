@@ -1,0 +1,14 @@
+#outer
+{
+	height:550px;
+	width:400px;
+	//border:1px solid;
+	//background-color:yellow;
+	margin:30px auto;
+}
+body
+{
+	background-image:url("y.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}

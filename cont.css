@@ -1,0 +1,27 @@
+#outer
+{
+height:700px;
+width:700px;
+border:0px solid;
+margin:30px auto;
+}
+body
+{
+background-image:url('421.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+#head
+{
+height:300px;
+width:700px;
+border:0px solid;
+background-image:url('1.jpg');
+}
+#footer
+{
+height:400px;
+width:700px;
+border:opx solid;
+background-color:blue;
+}

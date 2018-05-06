@@ -1,0 +1,33 @@
+#outer
+{
+	height:500px;
+	width:1220px;
+	border:1px solid;
+	background-color:red;
+	margin-top:5px;
+	background-image:url("w.jpg");
+}
+#header
+{
+	height:100px;
+	width:1220px;
+	border:1px solid;
+	border-radius:15px 15px 0px 0px;
+	background-color:blue;
+	background-image:url("r.jpg");
+	color:white;
+}
+#head1
+{
+	height:200px;
+	width:350px;
+	//border:1px solid;
+	margin:90px auto;			
+}
+input
+{
+	height:30px;
+	width:200px;
+	border:1px solid;
+	border-radius:5px 5px 5px 5px;
+}
